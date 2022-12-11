@@ -1,4 +1,4 @@
 # A Collatz conjecture grapher
-## by Bernas
+**by Bernas**
 
 _Extremely unpolished_
